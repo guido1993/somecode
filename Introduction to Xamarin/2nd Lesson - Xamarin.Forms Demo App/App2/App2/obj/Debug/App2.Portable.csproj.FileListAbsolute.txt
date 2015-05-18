@@ -1,0 +1,24 @@
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2\obj\Debug\LoginPage.xaml.g.cs
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2\obj\Debug\HomePage.xaml.g.cs
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2\bin\Debug\App2.dll
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2\bin\Debug\App2.pdb
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2\obj\Debug\App2.dll
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2\obj\Debug\App2.pdb
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2\obj\Debug\App2.Portable.csprojResolveAssemblyReference.cache
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2\obj\Debug\Profile.xaml.g.cs
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2\bin\Debug\App2.dll
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2\bin\Debug\App2.pdb
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2\obj\Debug\App2.Portable.csprojResolveAssemblyReference.cache
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2\obj\Debug\LoginPage.xaml.g.cs
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2\obj\Debug\HomePage.xaml.g.cs
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2\obj\Debug\Profile.xaml.g.cs
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2\obj\Debug\App2.dll
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2\obj\Debug\App2.pdb

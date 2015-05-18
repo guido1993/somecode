@@ -1,0 +1,58 @@
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2.Droid\obj\Debug\App2.Droid.csprojResolveAssemblyReference.cache
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2.Droid\bin\Debug\App2.Droid.dll
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2.Droid\bin\Debug\App2.Droid.pdb
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2.Droid\bin\Debug\App2.Droid.dll.mdb
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2.Droid\bin\Debug\App2.Droid.apk
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2.Droid\bin\Debug\App2.Droid-Signed.apk
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2.Droid\bin\Debug\App2.dll
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2.Droid\bin\Debug\FormsViewGroup.dll
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2.Droid\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2.Droid\bin\Debug\App2.pdb
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2.Droid\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2.Droid\obj\Debug\App2.Droid.dll
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2.Droid\obj\Debug\App2.Droid.pdb
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2.Droid\obj\Debug\android\bin\App2.Droid.apk
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2.Droid\obj\Debug\res\drawable\icon.png
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2.Droid\obj\Debug\res\drawable-hdpi\icon.png
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2.Droid\obj\Debug\R.cs.flag
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2.Droid\obj\Debug\uploadflags.txt
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2.Droid\bin\Debug\App2.dll.mdb
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2.Droid\obj\Debug\res\drawable\fotoprofilo.jpg
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2.Droid\obj\Debug\res\drawable\home.png
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2.Droid\obj\Debug\res\drawable\logo.png
+c:\users\guido\documents\visual studio 2015\Projects\App2\App2\App2.Droid\obj\Debug\res\drawable\profile.png
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2.Droid\bin\Debug\App2.Droid.dll
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2.Droid\bin\Debug\App2.Droid.pdb
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2.Droid\bin\Debug\App2.Droid.dll.mdb
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2.Droid\bin\Debug\App2.Droid.apk
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2.Droid\bin\Debug\App2.Droid-Signed.apk
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2.Droid\bin\Debug\App2.dll
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2.Droid\bin\Debug\App2.pdb
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2.Droid\bin\Debug\App2.dll.mdb
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2.Droid\obj\Debug\App2.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2.Droid\obj\Debug\App2.Droid.dll
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2.Droid\obj\Debug\App2.Droid.pdb
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2.Droid\obj\Debug\android\bin\App2.Droid.apk
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2.Droid\obj\Debug\res\drawable\fotoprofilo.jpg
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2.Droid\obj\Debug\res\drawable\home.png
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2.Droid\obj\Debug\res\drawable\logo.png
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2.Droid\obj\Debug\res\drawable\profile.png
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2.Droid\obj\Debug\R.cs.flag
+C:\Users\Guido\Desktop\2 - Xamarin Forms\Xamarin.Forms Demo App\App2\App2.Droid\obj\Debug\uploadflags.txt

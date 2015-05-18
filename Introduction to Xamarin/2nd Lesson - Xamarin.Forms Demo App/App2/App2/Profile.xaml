@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App2.Profile">
+	<ContentView>
+    <!--write here your code that will be run when the "Settings" button will be clicked-->
+    <Label Text="Write your profile page content here!" HorizontalOptions="CenterAndExpand" FontSize="22" VerticalOptions="CenterAndExpand"/>
+  </ContentView>
+</ContentPage>

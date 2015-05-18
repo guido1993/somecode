@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App2.HomePage">
+  <MasterDetailPage.Master>
+    <ContentPage Title="AppForms" BackgroundColor="Gray">
+      <ContentView>
+        <StackLayout>
+          <Label HeightRequest="10"/>
+          <Grid>
+            <Grid.ColumnDefinitions>
+              <ColumnDefinition Width="*"/>
+              <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            
+            <Image Source="FotoProfilo.jpg" HeightRequest="60" Grid.Column="0" VerticalOptions="CenterAndExpand"/>
+            <Label Text="Guido Magrin" Font="24" Grid.Column="1" VerticalOptions="CenterAndExpand"/>
+          </Grid>
+          <Label HeightRequest="20"/>
+          <ListView x:Name="OptionsView" BackgroundColor="Transparent">
+            <ListView.ItemTemplate>
+              <DataTemplate>
+                <ImageCell Text="{Binding Voce}" ImageSource="{Binding ImageURL}" TextColor="White"/>
+              </DataTemplate>
+            </ListView.ItemTemplate>
+          </ListView>
+        </StackLayout>
+      </ContentView>
+    </ContentPage>
+  </MasterDetailPage.Master>
+  <MasterDetailPage.Detail>
+    <ContentPage>
+      <ContentView>
+        <Grid Padding="0,20,0,0">
+          <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+          </Grid.RowDefinitions>
+          <Label Grid.Row="0" Text="Welcome" HorizontalOptions="CenterAndExpand" FontSize="30"/>
+          <Button x:Name="ButtonBalance" Grid.Row="1" Text="Show Balance" FontSize="25" Clicked="Button_OnClicked" HorizontalOptions="CenterAndExpand"/>
+          <Label x:Name="LabelBalance" Grid.Row="1" HorizontalOptions="CenterAndExpand" FontSize="25"/>
+        </Grid>
+      </ContentView>
+      <ContentPage.ToolbarItems>
+        <ToolbarItem Text="About" Order="Primary" Clicked="About_OnClicked"/>
+        <ToolbarItem Text="Settings" Order="Secondary" Clicked="Settings_OnClicked"/>
+      </ContentPage.ToolbarItems>
+    </ContentPage>
+  </MasterDetailPage.Detail>
+</MasterDetailPage>
