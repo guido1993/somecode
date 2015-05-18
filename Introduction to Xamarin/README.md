@@ -1,2 +1,2 @@
-# somecode
-In case you are looking for the code I am using during some of my presentations and demos, you have come to the right place! :D You might even find something else... :)
+# Xamarin Lessons
+Here I uploaded the Demo material I used to present Xamarin during 3 events kept at the Politecnico of Milano, as a Xamarin Student Ambassador.
